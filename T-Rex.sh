@@ -37,8 +37,8 @@ sleep 1
 echo $white "[4].Exit"
 sleep 1
 echo "================================================" | lolcat
-echo $purple
-read -p "Pilih : " pilih
+echo $cyan
+read -p "Pilih Satu : " pilih
 if [ $pilih = "1" ]
 then
     clear
