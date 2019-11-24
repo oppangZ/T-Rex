@@ -19,25 +19,25 @@ sleep 2
 clear
 
 toilet -f slant -F gay "T - Rex"
-echo $green"[*]==========================================[*]"
+echo $green"[★]==========================================[★]"
 echo $cyan"[-] Coder : oppangZ                          [-]"
-echo $green"[*] Github : https://github.com/oppangZ      [-]"
+echo $green"[★] Github : https://github.com/oppangZ      [★]"
 echo $cyan"[-] Instagram : @nouvalfr09                  [-]"
-echo $green"[*]==========================================[*]"
+echo $green"[★]==========================================[★]"
 sleep 1
 echo
-echo $yellow"[*]==========================================[*]" 
+echo $yellow"[★]==========================================[★]" 
 echo $green"[-] Tools yg tersedia :                      [-]"
 sleep 1
-echo $yellow"[*] [1].Deface Script                        [*]"
+echo $yellow"[★] [1].Deface Script                        [★]"
 sleep 1
 echo $green"[-] [2].Stabil Signal                        [-]"
 sleep 1
-echo $yellow"[*] [3].Tracking                             [*]"
+echo $yellow"[★] [3].Tracking                             [*]"
 sleep 1
 echo $green"[-] [4].Exit                                 [-]"
 sleep 1
-echo $yellow"[*]==========================================[*]"
+echo $yellow"[★]==========================================[★]"
 echo $cyan"Pilih Nomor"
 echo $red
 read -p "[?] Use : " pilih
