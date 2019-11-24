@@ -27,7 +27,7 @@ echo $green"[*]==========================================[*]"
 sleep 1
 echo
 echo $yellow"[*]==========================================[*]" 
-echo $green"[-] Pilih Toolsnya :                         [-]"
+echo $green"[-] Tools yg tersedia :                      [-]"
 sleep 1
 echo $yellow"[*] [1].Deface Script                        [*]"
 sleep 1
@@ -37,9 +37,10 @@ echo $yellow"[*] [3].Tracking                             [*]"
 sleep 1
 echo $green"[-] [4].Exit                                 [-]"
 sleep 1
-echo $yellow"[*]==========================================[*]" 
-echo $purple
-read -p "Pilih : " pilih
+echo $yellow"[*]==========================================[*]"
+echo $cyan"Pilih Nomor"
+echo $red
+read -p "[?] Use : " pilih
 if [ $pilih = "1" ]
 then
     clear
