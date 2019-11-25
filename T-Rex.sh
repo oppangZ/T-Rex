@@ -14,7 +14,7 @@ echo $yellow"Loading..."
 sleep 2
 clear
 sleep 1
-figlet "Welcome !" | lolcat
+toilet -f big -F gay "Welcome !"
 sleep 2
 clear
 
@@ -83,8 +83,8 @@ then
     echo $yellow"Leave the script..."
     sleep 2
     clear 
-    figlet "Bye" | lolcat
+    toilet -f big -F gay "Bye"
     sleep 1
-    echo $white"see You next Time" | lolcat
-    date | lolcat
+    echo $green"see You next Time"
+    date
 fi
