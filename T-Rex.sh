@@ -25,22 +25,21 @@ echo $green"[★] Github : https://github.com/oppangZ      [★]"
 echo $cyan"[-] Instagram : @nouvalfr09                  [-]"
 echo $green"[★]==========================================[★]"
 sleep 1
+echo 
+echo $cyan"Tools yg tersedia :"
 echo
-echo $yellow"[★]==========================================[★]" 
-echo $green"[-] Tools yg tersedia :                      [-]"
 sleep 1
-echo $yellow"[★] [1].Deface Script                        [★]"
+echo $cyan"1.Deface Script"
 sleep 1
-echo $green"[-] [2].Stabil Signal                        [-]"
+echo $cyan"3.Stabil Signal"
 sleep 1
-echo $yellow"[★] [3].Tracking                             [*]"
+echo $cyan"3.Tracking"
 sleep 1
-echo $green"[-] [4].Exit                                 [-]"
-sleep 1
-echo $yellow"[★]==========================================[★]"
-echo $cyan"Pilih Nomor"
-echo $red
-read -p "[?] Use : " pilih
+echo $red"4.Exit"
+echo
+echo $green"Pilih Nomor"
+echo $yellow
+read -p "[?] Use > " pilih
 if [ $pilih = "1" ]
 then
     clear
